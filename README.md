@@ -8,5 +8,9 @@ You discover yourself stranded in a strange maze that a mysterious and crafty ga
 Discover a wide variety of hard puzzles, such as riddles, logic games, arithmetic challenges, and more, that will put your brain to the test.
 As you make your way through a complex maze full of intrigue and adventure, immerse yourself in a compelling plot.
 Can you solve the puzzles, find your way out of the maze, and outwit the game's creator? The test is coming!
+
 # Screenshots
 
+<img src="screeen shot/main.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
+
+<img src="screeen shot/main.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
