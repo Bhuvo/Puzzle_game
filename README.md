@@ -11,6 +11,6 @@ Can you solve the puzzles, find your way out of the maze, and outwit the game's 
 
 # Screenshots
 
-<img src="scrren shot/puzzle ss1.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
+<img src="scrren shot/puzzle ss1.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="400" />
 
-<img src="scrren shot/puzzle ss2.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
+<img src="scrren shot/puzzle ss2.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="400" />
